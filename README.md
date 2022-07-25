@@ -4,7 +4,7 @@ Para ejecutar el programa debe:
 1. Descargar el repositorio de Git Hub.
 2. Abrir cualquier consola de comandos.
 3. Desde dicha consola ubicarse en la carpeta en donde quedo descargado el archivo
-4. Ejecutar el comando "ng build" y luego "ng serve"
+4. Ejecutar el comando "npm install" y luego "ng serve"
 5. Abrir caulquier navegador y buscar http://localhost:4200/
 
 Aspectos Generales:
